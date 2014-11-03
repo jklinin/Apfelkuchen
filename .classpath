@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="Apfelkuchen/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="Apfelkuchen/src/RCaller-2.0.7.jar"/>
+	<classpathentry kind="lib" path="RCaller-2.4-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
