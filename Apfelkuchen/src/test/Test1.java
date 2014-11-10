@@ -12,7 +12,7 @@ public class Test1 {
 	}
 	
 	/*
-	 * Test for simple plots
+	 * Test for simple plot
 	 */
 	public Test1() {
 		try {
